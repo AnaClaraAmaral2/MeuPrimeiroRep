@@ -12,3 +12,4 @@
 ## 9° passo: Escreva o comando "git add .".
 ## 10° passo: Escreva o comando "git commit -m "xxxx"" para deixar uma mensagem sobre a mudança realizada.
 ## 11° passo: Escreva o comando "git push -u origin main" para empurrar da origem para o principal, lembrar de entrar na conta do git.
+## 12° Passo: Escreva o comando "git pull" para trazer as informações do github para a máquina.
